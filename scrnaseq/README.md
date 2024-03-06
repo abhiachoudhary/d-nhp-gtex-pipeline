@@ -27,7 +27,8 @@ Versions used across our releases:
 | Cellranger      | [v7.2.0](https://console.cloud.google.com/storage/browser/_details/d-nhp-gtex-resources/software/cellranger-7.2.0.tar.gz;tab=live_object) | |
 | Cellranger-atac | [v2.1.0](https://console.cloud.google.com/storage/browser/_details/d-nhp-gtex-resources/software/cellranger-atac-2.1.0.tar.gz;tab=live_object) | |
 | Cellranger-arc  | [v2.0.2](https://console.cloud.google.com/storage/browser/_details/d-nhp-gtex-resources/software/cellranger-arc-2.0.2.tar.gz;tab=live_object) | |
-| Cellbender      |   |  |
+| FastQC      |   |  |
+| CellBender      |   |  |
 | Souporcell      |   |  |
 | Genome          | GRCh38/hg38  |  |
 | GENCODE         | [v45](https://www.gencodegenes.org/human/release_45.html) |  |
