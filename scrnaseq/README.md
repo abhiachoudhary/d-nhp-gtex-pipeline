@@ -1,4 +1,4 @@
-# snRNA-seq/snRNA-seq pipeline for the [dGTEx and NHP-dGTEx Consortiums](test.gtexportal.org)
+# sc/sn-RNA-seq pipeline for [dGTEx and NHP-dGTEx Consortiums](https://test.gtexportal.org/)
 
 This repository contains all components of the scRNA-seq/snRNA-seq pipeline used by the dGTEx and NHP-dGTEx Consortiums, including preprocessing, alignment, quantification, and quality control.
 
@@ -52,6 +52,6 @@ ToDo
 
 ## Running the pipeline
 We run various components of pipeline in the following way:
-* Cellranger: [cumulus workflow](link)
+* Cellranger: [cumulus workflow]()
 * Cellbender:
-* Souporcell: [cumulus workflow](link)
+* Souporcell: [cumulus workflow]()
